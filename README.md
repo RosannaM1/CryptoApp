@@ -1,8 +1,16 @@
-# React + Vite
+# CryptoApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoApp es una aplicación construida con React que te permite ver los precios de las criptomonedas. 
+También puedes buscar criptomonedas específicas y navegar entre diferentes páginas de resultados. El proyecto utiliza Tailwind CSS para el diseño.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Ver precios de las criptomonedas en tiempo real
+- Buscar criptomonedas por nombre
+- Paginación para navegar entre los resultados de búsqueda
+- Diseño responsivo utilizando Tailwind CSS
+
+## Tecnologías Utilizadas
+
+- React
+- Tailwind CSS
